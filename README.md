@@ -21,5 +21,3 @@ There are many pre-trained models for language translation available in Hugging 
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23EE4C2C.svg?&style=for-the-badge&logo=Netlify&logoColor=white" />
 <img alt="VScode" src="https://img.shields.io/badge/VScode%20-%23F37626.svg?&style=for-the-badge&logo=VScode&logoColor=white" />
 
-### Website deployed link
-[English-German Translator](https://eng-deu-translator.netlify.app/)
