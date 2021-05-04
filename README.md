@@ -7,7 +7,7 @@ Translation, therefore, is critical for social harmony and peace.
 The Transformer is a deep learning model. Transformers have rapidly become the model of choice for NLP problems, replacing older recurrent neural network models such as the long short-term memory (LSTM). Transformers are designed to handle sequential input data, such as natural language, for tasks such as translation and text summarization.
 
 ### Model used for Translator?
-There are many pre-trained models for language translation available in Hugging Face models. I used the "translation_en_to_de" pre-trained model for the translation of English to German.
+There are many pre-trained models for language translation available in Hugging Face models. I used the "translation_en_to_de" pre-trained model for the translation of English to German language.
 
 ### Work Flow
 * Pre-Trained deep learning transformer model is used to translate the English text to German.
