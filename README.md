@@ -12,7 +12,7 @@ There are many pre-trained models for language translation available in Hugging 
 ### Work Flow
 * Pre-Trained deep learning transformer model is used to translate the English text to German.
 * Using Flask, created a webpage that takes both text and audio files and translates it to German language.
-* Deployed the Flask app from Netlify deployment website.
+* Deployed the Flask app from Netlify website.
 
 ### Tools and Technologies
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
